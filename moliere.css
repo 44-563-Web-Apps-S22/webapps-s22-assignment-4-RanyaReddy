@@ -51,3 +51,14 @@ tbody tr:nth-child(odd) {
     margin: 2px;
     padding-top: 1rem;
 }
+.playStyle {
+    font-style: italic;
+    font-size: 18px;
+    font-family: monospace;
+    border: 2px solid rgb(28, 0, 128);
+}
+h6.name:hover {
+    border: 1px solid #e2b692;
+    padding: 10px;
+    box-shadow: 5px 10px #e2929d;
+}
